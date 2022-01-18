@@ -40,7 +40,7 @@ EMAIL_HOST_PASSWORD = os.getenv('EMAIL_HOST_PASSWORD')
 EMAIL_USE_TLS = False
 EMAIL_USE_SSL = True
 
-ALLOWED_HOSTS = ['tedsfsdfsdf.herokuapp.com']
+ALLOWED_HOSTS = ['testmydatingapp.herokuapp.com']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
